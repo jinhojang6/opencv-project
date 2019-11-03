@@ -9,8 +9,7 @@ print(cv2.__version__)
 video_file = "./data/butterflies.mp4"
 cap = cv2.VideoCapture(video_file)
 
-print(
-	f'frame size: {cap.get(cv2.CAP_PROP_FRAME_WIDTH)} by {cap.get(cv2.CAP_PROP_FRAME_HEIGHT)}')
+print(f'frame size: {cap.get(cv2.CAP_PROP_FRAME_WIDTH)} by {cap.get(cv2.CAP_PROP_FRAME_HEIGHT)}')
 print(f'frame count: {cap.get(cv2.CAP_PROP_FRAME_COUNT)}')
 print(f'pixel count: {cap.get(cv2.CAP_PROP_FRAME_WIDTH) * cap.get(cv2.CAP_PROP_FRAME_HEIGHT) * cap.get(cv2.CAP_PROP_FRAME_COUNT) / 1000000}M')
 
