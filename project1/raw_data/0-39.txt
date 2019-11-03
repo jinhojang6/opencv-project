@@ -1,0 +1,80 @@
+thresh 0: 6327457882.0, eslapsed time: 64.80790519714355s
+new optimal
+thresh 1: 6291487458.0, eslapsed time: 64.383385181427s
+new optimal
+thresh 2: 6262617186.0, eslapsed time: 64.44703531265259s
+new optimal
+thresh 3: 6236708634.0, eslapsed time: 64.22404408454895s
+new optimal
+thresh 4: 6204897076.0, eslapsed time: 64.30202388763428s
+new optimal
+thresh 5: 6176871916.0, eslapsed time: 64.23281407356262s
+new optimal
+thresh 6: 6162400162.0, eslapsed time: 64.62796807289124s
+new optimal
+thresh 7: 6140697390.0, eslapsed time: 64.4035267829895s
+new optimal
+thresh 8: 6114090338.0, eslapsed time: 64.15662813186646s
+new optimal
+thresh 9: 6085241850.0, eslapsed time: 64.46627140045166s
+new optimal
+thresh 10: 6056050198.0, eslapsed time: 64.76569867134094s
+new optimal
+thresh 11: 6023663036.0, eslapsed time: 64.65804672241211s
+new optimal
+thresh 12: 5989970882.0, eslapsed time: 64.9463062286377s
+new optimal
+thresh 13: 5976847738.0, eslapsed time: 64.61382222175598s
+new optimal
+thresh 14: 5951369436.0, eslapsed time: 64.40070343017578s
+new optimal
+thresh 15: 5917051598.0, eslapsed time: 64.4934446811676s
+new optimal
+thresh 16: 5880575386.0, eslapsed time: 64.3097071647644s
+new optimal
+thresh 17: 5844824464.0, eslapsed time: 64.25015234947205s
+new optimal
+thresh 18: 5808601882.0, eslapsed time: 64.17047834396362s
+new optimal
+thresh 19: 5772712954.0, eslapsed time: 64.20803046226501s
+new optimal
+thresh 20: 5762175660.0, eslapsed time: 64.22512626647949s
+new optimal
+thresh 21: 5735784038.0, eslapsed time: 64.33104109764099s
+new optimal
+thresh 22: 5701068876.0, eslapsed time: 64.30987691879272s
+new optimal
+thresh 23: 5666274096.0, eslapsed time: 64.97961664199829s
+new optimal
+thresh 24: 5629454772.0, eslapsed time: 64.62209177017212s
+new optimal
+thresh 25: 5593682852.0, eslapsed time: 64.53546857833862s
+new optimal
+thresh 26: 5556893508.0, eslapsed time: 64.2391288280487s
+new optimal
+thresh 27: 5546845316.0, eslapsed time: 64.30478191375732s
+new optimal
+thresh 28: 5518401216.0, eslapsed time: 64.27577114105225s
+new optimal
+thresh 29: 5481680306.0, eslapsed time: 64.21739673614502s
+new optimal
+thresh 30: 5444859150.0, eslapsed time: 64.31930780410767s
+new optimal
+thresh 31: 5406684882.0, eslapsed time: 64.33274507522583s
+new optimal
+thresh 32: 5368665538.0, eslapsed time: 64.64895343780518s
+new optimal
+thresh 33: 5331993450.0, eslapsed time: 65.40712451934814s
+new optimal
+thresh 34: 5321572656.0, eslapsed time: 64.70664095878601s
+new optimal
+thresh 35: 5292664324.0, eslapsed time: 64.42170333862305s
+new optimal
+thresh 36: 5255439052.0, eslapsed time: 64.68140721321106s
+new optimal
+thresh 37: 5217335282.0, eslapsed time: 60.855905532836914s
+new optimal
+thresh 38: 5179625688.0, eslapsed time: 63.79167652130127s
+new optimal
+thresh 39: 5141035406.0, eslapsed time: 64.30860352516174s
+new optimal
