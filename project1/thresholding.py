@@ -26,15 +26,13 @@ for thresh_current in range(0, 256):
 		ret, img = cap.read()
 		while ret:
 			gray_image = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-			ret, thresh_image = cv2.threshold(
-				gray_image, thresh_current, 255, cv2.THRESH_BINARY)
+			ret, thresh_image = cv2.threshold(gray_image, thresh_current, 255, cv2.THRESH_BINARY)
 			M1 = np.sum(thresh_image) / 255
 			M0 = np.size(thresh_image) - M1
 			diff_sum += abs(M0 - M1)
 			ret, img = cap.read()
 
-	print(
-		f'thresh {thresh_current}: {diff_sum}, eslapsed time: {time.time() - timeP}s')
+	print(f'thresh {thresh_current}: {diff_sum}, eslapsed time: {time.time() - timeP}s')
 	timeP = time.time()
 	if (diff_opt < 0) or (diff_opt > diff_sum):
 		thresh_opt = thresh_current
