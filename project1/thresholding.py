@@ -19,9 +19,8 @@ timeP = time.time()
 thresh_current = 0
 thresh_opt = 0
 diff_opt = -1
-# frame = 1
 
-for thresh_current in range(192, 256):
+for thresh_current in range(0, 256):
 	cap = cv2.VideoCapture(video_file)
 	diff_sum = 0
 	if cap.isOpened():
@@ -30,18 +29,10 @@ for thresh_current in range(192, 256):
 			gray_image = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 			ret, thresh_image = cv2.threshold(
 				gray_image, thresh_current, 255, cv2.THRESH_BINARY)
-			# cv2.imshow('Threshold Binary', thresh_image)
-			# cv2.waitKey()
-			# cv2.destroyAllWindows()
-			# fill_ratio = np.sum(thresh_image) / (255 * np.size(thresh_image))
-			diff_sum += abs(np.size(thresh_image) - (2 / 255) * np.sum(thresh_image))
+			M1 = np.sum(thresh_image) / 255
+			M0 = np.size(thresh_image) - M1
+			diff_sum += abs(M0 - M1)
 			ret, img = cap.read()
-
-			# print(np.size(thresh_image), np.size(thresh_image[0]), np.sum(thresh_image) / 255)
-			# print(fill_ratio)
-
-			# print(f'{thresh_current}, {100 * frame / cap.get(cv2.CAP_PROP_FRAME_COUNT)}%')
-			# frame += 1
 
 	print(
 		f'thresh {thresh_current}: {diff_sum}, eslapsed time: {time.time() - timeP}s')
