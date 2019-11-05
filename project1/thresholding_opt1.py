@@ -23,7 +23,7 @@ def evaluate_threshold(path, threshold):
 	print(f'thresh {threshold}: {diff_sum}, eslapsed time: {time.time() - timeP}s')
 	return diff_sum
 
-def evaluate_section(path, value_list, init = 0, end = 255, div = 4):
+def evaluate_section(path, value_list = [-1] * 256, init = 0, end = 255, div = 4):
 	div = min(div, end - init)
 	thresh_list = [0] * (div + 1)
 	eval_list = [0] * (div + 1)
@@ -58,8 +58,7 @@ timeI = time.time()
 thresh_opt = 0
 diff_opt = -1
 
-value_list = [-1] * 256
-thresh_opt, diff_opt = evaluate_section(video_file, value_list)
+thresh_opt, diff_opt = evaluate_section(video_file)
 
 print(f'total eslapsed time: {time.time() - timeI}s')
 print(f'optimal threshold: {thresh_opt} at diff_sum {diff_opt}')
