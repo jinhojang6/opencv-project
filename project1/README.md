@@ -1,12 +1,16 @@
-# opencv-project  
+## opencv-project  
 Project 1: Converting a video into frames in greyscale -> Binary thresholding  
 
-# Configuration
+<br> 
+
+## Configuration
 python3 (must be 3.6 or later)
 git
 To utilize `python` instead of `python3` in terminal, `alias python=python3`
 
-# Project 1
+<br> 
+
+## Project 1
 ```
 git clone https://github.com/jinhojang6/opencv-project.git
 
