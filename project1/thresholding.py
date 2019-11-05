@@ -15,7 +15,6 @@ print(f'pixel count: {cap.get(cv2.CAP_PROP_FRAME_WIDTH) * cap.get(cv2.CAP_PROP_F
 
 timeI = time.time()
 timeP = time.time()
-thresh_current = 0
 thresh_opt = 0
 diff_opt = -1
 
