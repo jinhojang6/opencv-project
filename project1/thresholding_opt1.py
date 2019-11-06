@@ -55,7 +55,7 @@ print(f'frame count: {cap.get(cv2.CAP_PROP_FRAME_COUNT)}')
 print(f'pixel count: {cap.get(cv2.CAP_PROP_FRAME_WIDTH) * cap.get(cv2.CAP_PROP_FRAME_HEIGHT) * cap.get(cv2.CAP_PROP_FRAME_COUNT) / 1000000}M')
 
 timeI = time.time()
-thresh_opt, diff_opt = evaluate_section(video_file, div = 8)
+thresh_opt, diff_opt = evaluate_section(video_file)
 
 print(f'total eslapsed time: {time.time() - timeI}s')
 print(f'optimal threshold: {thresh_opt} at diff_sum {diff_opt}')
