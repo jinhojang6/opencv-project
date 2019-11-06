@@ -20,7 +20,7 @@ def evaluate_threshold(path, threshold):
 			diff_sum += abs(M0 - M1)
 			ret, img = cap.read()
 
-	print(f'thresh {threshold}: {diff_sum}, eslapsed time: {time.time() - timeP}s')
+	print(f'thresh {threshold}: {diff_sum}, elapsed time: {time.time() - timeP}s')
 	return diff_sum
 
 def evaluate_section(path, value_list = [-1] * 256, init = 0, end = 255, div = 4):
@@ -57,5 +57,5 @@ print(f'pixel count: {cap.get(cv2.CAP_PROP_FRAME_WIDTH) * cap.get(cv2.CAP_PROP_F
 timeI = time.time()
 thresh_opt, diff_opt = evaluate_section(video_file)
 
-print(f'total eslapsed time: {time.time() - timeI}s')
+print(f'total elapsed time: {time.time() - timeI}s')
 print(f'optimal threshold: {thresh_opt} at diff_sum {diff_opt}')
