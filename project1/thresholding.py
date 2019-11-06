@@ -18,8 +18,6 @@ timeP = time.time()
 thresh_opt = 0
 diff_opt = -1
 
-
-
 for thresh_current in range(0, 256):
 	cap = cv2.VideoCapture(video_file)
 	diff_sum = 0
