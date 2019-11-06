@@ -21,7 +21,7 @@ def evaluate_threshold(path, threshold):
 			diff_sum += abs(M0 - M1)
 			ret, img = cap.read()
 
-	print(f'thresh {threshold}: {diff_sum}, eslapsed time: {time.time() - timeP}s')
+	print(f'thresh {threshold}: {diff_sum}, elapsed time: {time.time() - timeP}s')
 	return diff_sum
 
 
@@ -32,7 +32,7 @@ def evaluate_section(path):
 	while start < end:
 		threshold = (start + end) // 2
 		current = evaluate_threshold(path, threshold)
-		before = current -  evaluate_threshold(path, threshold - 1)
+		before = current - evaluate_threshold(path, threshold - 1)
 		after = evaluate_threshold(path, threshold + 1) -  current
 
 		if before * after > 0 and before > 0 and after > 0:
@@ -47,10 +47,9 @@ def evaluate_section(path):
 	return -1
 
 video_file = "./data/butterflies.mp4"
-cap = cv2.VideoCapture(video_file)
 
 timeI = time.time()
 thresh_opt, diff_opt = evaluate_section(video_file)
 
-print(f'total eslapsed time: {time.time() - timeI}s')
+print(f'total elapsed time: {time.time() - timeI}s')
 print(f'optimal threshold: {thresh_opt} at diff_sum {diff_opt}')
