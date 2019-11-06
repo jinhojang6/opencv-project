@@ -45,7 +45,7 @@ def evaluate_section(path, value_list = [-1] * 256, init = 0, end = 255, div = 4
 	if div == (end - init):
 		return thresh_list[index_min], eval_list[index_min]
 	else:
-		return evaluate_section(path, value_list, thresh_list[max(0, index_min - 1)], thresh_list[min(div, index_min + 1)])
+		return evaluate_section(path, value_list, thresh_list[max(0, index_min - 1)], thresh_list[min(div, index_min + 1)], div)
 
 video_file = "./data/butterflies.mp4"
 cap = cv2.VideoCapture(video_file)
@@ -55,7 +55,7 @@ print(f'frame count: {cap.get(cv2.CAP_PROP_FRAME_COUNT)}')
 print(f'pixel count: {cap.get(cv2.CAP_PROP_FRAME_WIDTH) * cap.get(cv2.CAP_PROP_FRAME_HEIGHT) * cap.get(cv2.CAP_PROP_FRAME_COUNT) / 1000000}M')
 
 timeI = time.time()
-thresh_opt, diff_opt = evaluate_section(video_file)
+thresh_opt, diff_opt = evaluate_section(video_file, div = 8)
 
 print(f'total eslapsed time: {time.time() - timeI}s')
 print(f'optimal threshold: {thresh_opt} at diff_sum {diff_opt}')
