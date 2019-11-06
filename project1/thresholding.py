@@ -33,12 +33,12 @@ for thresh_current in range(0, 256):
 			diff_sum += abs(M0 - M1)
 			ret, img = cap.read()
 
-	print(f'thresh {thresh_current}: {diff_sum}, eslapsed time: {time.time() - timeP}s')
+	print(f'thresh {thresh_current}: {diff_sum}, elapsed time: {time.time() - timeP}s')
 	timeP = time.time()
 	if (diff_opt < 0) or (diff_opt > diff_sum):
 		thresh_opt = thresh_current
 		diff_opt = diff_sum
 		print('new optimal')
 
-print(f'total eslapsed time: {time.time() - timeI}s')
+print(f'total elapsed time: {time.time() - timeI}s')
 print(f'optimal threshold: {thresh_opt} at diff_sum {diff_opt}')
