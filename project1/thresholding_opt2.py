@@ -33,7 +33,7 @@ def evaluate_section(path):
 		threshold = (start + end) // 2
 		current = evaluate_threshold(path, threshold)
 		before = current - evaluate_threshold(path, threshold - 1)
-		after = evaluate_threshold(path, threshold + 1) -  current
+		after = evaluate_threshold(path, threshold + 1) - current
 
 		if before * after > 0 and before > 0 and after > 0:
 			end = threshold
