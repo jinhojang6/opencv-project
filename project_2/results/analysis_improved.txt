@@ -1,0 +1,581 @@
+1 : {'person': {'count': 24, 'confidence': 75.29833043615024}}
+2 : {'person': {'count': 23, 'confidence': 78.80938571432362}}
+3 : {'person': {'count': 25, 'confidence': 77.15596652030945}}
+4 : {'person': {'count': 24, 'confidence': 78.10472100973129}}
+5 : {'person': {'count': 23, 'confidence': 76.92774897036345}, 'bicycle': {'count': 2, 'confidence': 51.32810175418854}}
+6 : {'person': {'count': 23, 'confidence': 78.4260322218356}}
+7 : {'person': {'count': 23, 'confidence': 77.17442616172458}}
+8 : {'person': {'count': 23, 'confidence': 78.49867758543596}}
+9 : {'person': {'count': 26, 'confidence': 76.66310599217049}}
+10 : {'person': {'count': 25, 'confidence': 78.38211417198181}}
+11 : {'person': {'count': 25, 'confidence': 75.94747614860535}}
+12 : {'person': {'count': 23, 'confidence': 76.00782332213029}}
+13 : {'person': {'count': 22, 'confidence': 77.23501703955911}}
+14 : {'person': {'count': 22, 'confidence': 76.88356800512834}, 'bicycle': {'count': 1, 'confidence': 65.07962346076965}}
+15 : {'person': {'count': 21, 'confidence': 79.1700712272099}}
+16 : {'person': {'count': 24, 'confidence': 78.4987802306811}}
+17 : {'person': {'count': 23, 'confidence': 77.44101285934448}, 'bicycle': {'count': 2, 'confidence': 56.94889724254608}}
+18 : {'person': {'count': 22, 'confidence': 77.199187874794}, 'car': {'count': 1, 'confidence': 54.06970977783203}, 'bicycle': {'count': 2, 'confidence': 68.73739957809448}}
+19 : {'person': {'count': 22, 'confidence': 77.52391641790217}, 'car': {'count': 1, 'confidence': 52.2783637046814}, 'bicycle': {'count': 1, 'confidence': 51.4950156211853}}
+20 : {'person': {'count': 22, 'confidence': 74.60833408615805}}
+21 : {'person': {'count': 26, 'confidence': 73.50248877818768}}
+22 : {'person': {'count': 24, 'confidence': 74.79819903771083}, 'bicycle': {'count': 1, 'confidence': 55.543053150177}}
+23 : {'person': {'count': 27, 'confidence': 73.805864210482}, 'car': {'count': 1, 'confidence': 65.01099467277527}, 'bicycle': {'count': 1, 'confidence': 64.97156620025635}}
+24 : {'person': {'count': 26, 'confidence': 72.49363179390247}, 'car': {'count': 1, 'confidence': 74.33321475982666}, 'bicycle': {'count': 1, 'confidence': 66.86051487922668}}
+25 : {'person': {'count': 24, 'confidence': 72.81191150347392}, 'car': {'count': 1, 'confidence': 71.15377187728882}}
+26 : {'person': {'count': 22, 'confidence': 75.9015213359486}, 'car': {'count': 1, 'confidence': 69.9953019618988}}
+27 : {'person': {'count': 24, 'confidence': 76.45711948474248}, 'car': {'count': 1, 'confidence': 65.24373888969421}}
+28 : {'person': {'count': 24, 'confidence': 77.69402315219243}, 'car': {'count': 1, 'confidence': 71.7828094959259}}
+29 : {'person': {'count': 23, 'confidence': 79.34792145438816}}
+30 : {'truck': {'count': 1, 'confidence': 51.772987842559814}, 'person': {'count': 29, 'confidence': 74.25640842010235}}
+31 : {'truck': {'count': 1, 'confidence': 77.85055041313171}, 'person': {'count': 26, 'confidence': 77.59401958722334}}
+32 : {'person': {'count': 27, 'confidence': 77.03126933839586}}
+33 : {'truck': {'count': 1, 'confidence': 57.988494634628296}, 'person': {'count': 23, 'confidence': 78.17777991294861}}
+34 : {'person': {'count': 25, 'confidence': 75.40950846672058}}
+35 : {'truck': {'count': 1, 'confidence': 59.30807590484619}, 'person': {'count': 30, 'confidence': 74.72358326117198}}
+36 : {'person': {'count': 30, 'confidence': 74.78994190692902}, 'bicycle': {'count': 1, 'confidence': 53.208428621292114}}
+37 : {'person': {'count': 30, 'confidence': 74.06325022379558}, 'bicycle': {'count': 1, 'confidence': 52.45395302772522}}
+38 : {'truck': {'count': 1, 'confidence': 69.34213042259216}, 'person': {'count': 29, 'confidence': 76.22073169412285}, 'bicycle': {'count': 1, 'confidence': 56.8286657333374}}
+39 : {'truck': {'count': 1, 'confidence': 63.01273703575134}, 'person': {'count': 29, 'confidence': 75.59469650531638}}
+40 : {'person': {'count': 27, 'confidence': 79.33883777371159}, 'bicycle': {'count': 1, 'confidence': 55.24250864982605}}
+41 : {'truck': {'count': 1, 'confidence': 52.41073966026306}, 'person': {'count': 30, 'confidence': 77.51932044823964}, 'bicycle': {'count': 1, 'confidence': 53.706103563308716}}
+42 : {'person': {'count': 25, 'confidence': 80.18724822998047}}
+43 : {'person': {'count': 25, 'confidence': 78.33582353591919}}
+44 : {'person': {'count': 25, 'confidence': 79.96848893165588}, 'backpack': {'count': 1, 'confidence': 53.84587645530701}}
+45 : {'person': {'count': 24, 'confidence': 79.29543827970822}, 'bicycle': {'count': 1, 'confidence': 62.62511610984802}}
+46 : {'person': {'count': 25, 'confidence': 80.42358636856079}}
+47 : {'truck': {'count': 1, 'confidence': 51.01988911628723}, 'person': {'count': 24, 'confidence': 79.08341785271962}, 'bicycle': {'count': 1, 'confidence': 84.16329026222229}, 'car': {'count': 1, 'confidence': 53.726065158843994}}
+48 : {'person': {'count': 22, 'confidence': 80.31127723780546}}
+49 : {'person': {'count': 23, 'confidence': 80.62849044799805}, 'car': {'count': 1, 'confidence': 52.023643255233765}}
+50 : {'person': {'count': 22, 'confidence': 79.1347392580726}, 'car': {'count': 1, 'confidence': 52.123504877090454}}
+51 : {'person': {'count': 21, 'confidence': 81.19428015890576}, 'car': {'count': 1, 'confidence': 51.49288773536682}}
+52 : {'person': {'count': 20, 'confidence': 84.2878207564354}, 'bicycle': {'count': 1, 'confidence': 51.62968635559082}, 'car': {'count': 1, 'confidence': 54.3520450592041}}
+53 : {'person': {'count': 21, 'confidence': 83.09097062973748}, 'bicycle': {'count': 1, 'confidence': 55.46741485595703}, 'car': {'count': 1, 'confidence': 51.830583810806274}}
+54 : {'truck': {'count': 1, 'confidence': 50.619739294052124}, 'person': {'count': 21, 'confidence': 82.19837688264393}, 'bicycle': {'count': 1, 'confidence': 70.61929106712341}, 'car': {'count': 1, 'confidence': 52.08548903465271}}
+55 : {'truck': {'count': 1, 'confidence': 71.10322713851929}, 'person': {'count': 22, 'confidence': 79.89877408201045}}
+56 : {'truck': {'count': 1, 'confidence': 54.30213212966919}, 'person': {'count': 25, 'confidence': 81.59840273857117}}
+57 : {'truck': {'count': 1, 'confidence': 58.332109451293945}, 'person': {'count': 28, 'confidence': 75.93018923486981}}
+58 : {'person': {'count': 25, 'confidence': 78.07040286064148}}
+59 : {'person': {'count': 24, 'confidence': 80.04461526870728}}
+60 : {'person': {'count': 26, 'confidence': 79.8275704567249}, 'car': {'count': 1, 'confidence': 53.427404165267944}}
+61 : {'person': {'count': 25, 'confidence': 80.42673015594482}}
+62 : {'person': {'count': 31, 'confidence': 75.74157003433474}, 'car': {'count': 1, 'confidence': 51.661866903305054}}
+63 : {'person': {'count': 30, 'confidence': 75.05151311556499}}
+64 : {'person': {'count': 28, 'confidence': 75.46189767973763}}
+65 : {'person': {'count': 28, 'confidence': 78.9635379399572}}
+66 : {'person': {'count': 24, 'confidence': 77.56317878762881}, 'car': {'count': 1, 'confidence': 53.014904260635376}}
+67 : {'person': {'count': 27, 'confidence': 75.43427392288491}}
+68 : {'truck': {'count': 1, 'confidence': 53.366804122924805}, 'person': {'count': 22, 'confidence': 76.71429894187234}}
+69 : {'person': {'count': 20, 'confidence': 77.0174503326416}}
+70 : {'person': {'count': 19, 'confidence': 80.41093537681981}}
+71 : {'person': {'count': 21, 'confidence': 79.36855213982719}}
+72 : {'person': {'count': 23, 'confidence': 80.05258907442507}}
+73 : {'person': {'count': 23, 'confidence': 77.89992871491805}}
+74 : {'person': {'count': 21, 'confidence': 77.98821046238854}}
+75 : {'person': {'count': 22, 'confidence': 78.70910899205641}}
+76 : {'person': {'count': 22, 'confidence': 78.16802154887806}}
+77 : {'person': {'count': 18, 'confidence': 83.04618398348491}}
+78 : {'person': {'count': 17, 'confidence': 81.34430156034581}}
+79 : {'person': {'count': 18, 'confidence': 79.97660868697696}}
+80 : {'person': {'count': 22, 'confidence': 77.37557535821742}}
+81 : {'person': {'count': 19, 'confidence': 81.21696961553474}}
+82 : {'person': {'count': 22, 'confidence': 80.09083921259099}}
+83 : {'person': {'count': 21, 'confidence': 80.49383532433282}}
+84 : {'person': {'count': 18, 'confidence': 84.32331681251526}}
+85 : {'person': {'count': 18, 'confidence': 87.54170305199094}}
+86 : {'person': {'count': 23, 'confidence': 81.34641621423805}}
+87 : {'person': {'count': 21, 'confidence': 80.18597449575152}}
+88 : {'person': {'count': 23, 'confidence': 81.95174932479858}}
+89 : {'person': {'count': 20, 'confidence': 84.69196766614914}}
+90 : {'person': {'count': 21, 'confidence': 81.46580457687378}}
+91 : {'person': {'count': 17, 'confidence': 84.38763548346127}}
+92 : {'person': {'count': 16, 'confidence': 87.81286776065826}, 'car': {'count': 1, 'confidence': 56.052619218826294}}
+93 : {'person': {'count': 17, 'confidence': 89.7111177444458}}
+94 : {'person': {'count': 16, 'confidence': 88.33719827234745}}
+95 : {'person': {'count': 19, 'confidence': 78.52967381477356}}
+96 : {'person': {'count': 17, 'confidence': 83.64538199761334}}
+97 : {'person': {'count': 16, 'confidence': 87.16121427714825}}
+98 : {'person': {'count': 17, 'confidence': 81.6050483899958}, 'car': {'count': 1, 'confidence': 54.004162549972534}}
+99 : {'person': {'count': 17, 'confidence': 80.67878063987283}, 'car': {'count': 1, 'confidence': 50.45517683029175}}
+100 : {'person': {'count': 17, 'confidence': 82.94299875988679}, 'car': {'count': 1, 'confidence': 54.202091693878174}}
+101 : {'person': {'count': 16, 'confidence': 84.59065780043602}}
+102 : {'person': {'count': 16, 'confidence': 81.17948397994041}}
+103 : {'person': {'count': 13, 'confidence': 81.64066809874315}}
+104 : {'person': {'count': 16, 'confidence': 77.5534376502037}}
+105 : {'person': {'count': 13, 'confidence': 89.15286064147949}}
+106 : {'person': {'count': 15, 'confidence': 78.7793517112732}}
+107 : {'person': {'count': 16, 'confidence': 81.82215578854084}}
+108 : {'person': {'count': 17, 'confidence': 78.57186759219451}}
+109 : {'person': {'count': 18, 'confidence': 79.2354232735104}}
+110 : {'person': {'count': 21, 'confidence': 78.1412558896201}}
+111 : {'person': {'count': 20, 'confidence': 77.62066721916199}}
+112 : {'person': {'count': 17, 'confidence': 78.93608492963455}}
+113 : {'person': {'count': 19, 'confidence': 76.96006611773842}}
+114 : {'person': {'count': 16, 'confidence': 77.05147862434387}}
+115 : {'person': {'count': 15, 'confidence': 78.2447338104248}}
+116 : {'person': {'count': 15, 'confidence': 78.03355813026428}}
+117 : {'person': {'count': 15, 'confidence': 76.54708544413249}}
+118 : {'person': {'count': 13, 'confidence': 85.86842326017526}}
+119 : {'person': {'count': 15, 'confidence': 79.47468042373657}}
+120 : {'person': {'count': 15, 'confidence': 82.42735624313354}}
+121 : {'person': {'count': 17, 'confidence': 81.68746793971343}, 'car': {'count': 1, 'confidence': 66.91025495529175}}
+122 : {'person': {'count': 17, 'confidence': 77.43545139537139}}
+123 : {'person': {'count': 19, 'confidence': 73.56168659109818}}
+124 : {'person': {'count': 16, 'confidence': 74.9189455062151}}
+125 : {'person': {'count': 16, 'confidence': 74.49340373277664}, 'car': {'count': 1, 'confidence': 62.292855978012085}}
+126 : {'person': {'count': 14, 'confidence': 76.91390258925301}, 'car': {'count': 1, 'confidence': 60.61092019081116}}
+127 : {'person': {'count': 13, 'confidence': 75.36722513345572}}
+128 : {'person': {'count': 15, 'confidence': 77.07835872968037}, 'car': {'count': 1, 'confidence': 78.91519069671631}}
+129 : {'person': {'count': 13, 'confidence': 81.14560888363765}, 'car': {'count': 1, 'confidence': 65.76205492019653}}
+130 : {'person': {'count': 16, 'confidence': 75.42540617287159}}
+131 : {'person': {'count': 13, 'confidence': 80.17352727743295}, 'car': {'count': 1, 'confidence': 69.20329928398132}}
+132 : {'person': {'count': 14, 'confidence': 78.36831254618508}}
+133 : {'person': {'count': 12, 'confidence': 83.21283360322316}}
+134 : {'person': {'count': 14, 'confidence': 83.16450076443809}}
+135 : {'person': {'count': 12, 'confidence': 81.29753470420837}}
+136 : {'person': {'count': 12, 'confidence': 84.51752414306004}, 'car': {'count': 1, 'confidence': 61.43803596496582}}
+137 : {'person': {'count': 14, 'confidence': 82.48531690665654}}
+138 : {'person': {'count': 14, 'confidence': 81.48568655763354}}
+139 : {'person': {'count': 13, 'confidence': 79.58387182309077}}
+140 : {'person': {'count': 15, 'confidence': 76.26478552818298}}
+141 : {'person': {'count': 14, 'confidence': 76.58804314477104}}
+142 : {'person': {'count': 14, 'confidence': 81.7666117634092}}
+143 : {'person': {'count': 13, 'confidence': 83.82703570219186}}
+144 : {'person': {'count': 13, 'confidence': 86.2650215625763}, 'car': {'count': 1, 'confidence': 59.176623821258545}}
+145 : {'person': {'count': 13, 'confidence': 84.48603611726027}, 'car': {'count': 1, 'confidence': 52.876466512680054}}
+146 : {'person': {'count': 12, 'confidence': 84.86532519261043}}
+147 : {'person': {'count': 15, 'confidence': 81.22991840044658}}
+148 : {'person': {'count': 15, 'confidence': 82.50147660573323}, 'car': {'count': 1, 'confidence': 66.3993239402771}}
+149 : {'person': {'count': 14, 'confidence': 80.14555999210903}}
+150 : {'person': {'count': 15, 'confidence': 78.7959595521291}}
+151 : {'person': {'count': 12, 'confidence': 85.21012614170711}}
+152 : {'person': {'count': 12, 'confidence': 84.80220586061478}}
+153 : {'person': {'count': 13, 'confidence': 78.61523078038142}, 'car': {'count': 1, 'confidence': 59.40285325050354}}
+154 : {'truck': {'count': 1, 'confidence': 66.12347364425659}, 'person': {'count': 17, 'confidence': 78.04152579868541}}
+155 : {'truck': {'count': 1, 'confidence': 63.622868061065674}, 'person': {'count': 13, 'confidence': 82.45143569432773}}
+156 : {'train': {'count': 1, 'confidence': 59.369683265686035}, 'person': {'count': 15, 'confidence': 79.91902550061543}}
+157 : {'train': {'count': 1, 'confidence': 62.39326596260071}, 'person': {'count': 15, 'confidence': 80.75305183728535}}
+158 : {'train': {'count': 1, 'confidence': 68.02533268928528}, 'person': {'count': 15, 'confidence': 80.38240790367126}}
+159 : {'train': {'count': 1, 'confidence': 66.82108640670776}, 'person': {'count': 15, 'confidence': 79.59705829620361}}
+160 : {'train': {'count': 1, 'confidence': 63.684266805648804}, 'person': {'count': 13, 'confidence': 80.72993480242215}}
+161 : {'person': {'count': 13, 'confidence': 82.80447079585149}}
+162 : {'person': {'count': 16, 'confidence': 79.91962693631649}}
+163 : {'person': {'count': 15, 'confidence': 79.35472369194031}}
+164 : {'person': {'count': 19, 'confidence': 75.99842391516033}}
+165 : {'person': {'count': 18, 'confidence': 74.77046185069614}}
+166 : {'person': {'count': 19, 'confidence': 77.06826454714725}}
+167 : {'train': {'count': 1, 'confidence': 55.67682385444641}, 'person': {'count': 15, 'confidence': 81.22616251309712}}
+168 : {'person': {'count': 15, 'confidence': 82.69165635108948}}
+169 : {'person': {'count': 14, 'confidence': 84.94797987597329}}
+170 : {'person': {'count': 17, 'confidence': 78.86060160749099}}
+171 : {'train': {'count': 1, 'confidence': 56.92390203475952}, 'person': {'count': 17, 'confidence': 79.6507989659029}, 'car': {'count': 1, 'confidence': 50.130391120910645}}
+172 : {'person': {'count': 17, 'confidence': 80.21690845489502}, 'car': {'count': 1, 'confidence': 50.006693601608276}}
+173 : {'train': {'count': 1, 'confidence': 61.092591285705566}, 'person': {'count': 21, 'confidence': 76.7744243144989}}
+174 : {'person': {'count': 16, 'confidence': 83.92221555113792}}
+175 : {'train': {'count': 1, 'confidence': 56.58615827560425}, 'person': {'count': 17, 'confidence': 80.61038641368641}}
+176 : {'person': {'count': 16, 'confidence': 83.00812728703022}}
+177 : {'train': {'count': 1, 'confidence': 52.906376123428345}, 'person': {'count': 16, 'confidence': 75.86825862526894}}
+178 : {'person': {'count': 18, 'confidence': 78.88866530524359}}
+179 : {'train': {'count': 1, 'confidence': 50.683438777923584}, 'person': {'count': 14, 'confidence': 82.82068754945483}}
+180 : {'train': {'count': 1, 'confidence': 52.14036703109741}, 'person': {'count': 19, 'confidence': 77.52311261076676}}
+181 : {'person': {'count': 21, 'confidence': 79.04239949725923}}
+182 : {'person': {'count': 19, 'confidence': 78.05170291348507}}
+183 : {'person': {'count': 18, 'confidence': 81.76701035764482}}
+184 : {'truck': {'count': 1, 'confidence': 54.413795471191406}, 'person': {'count': 18, 'confidence': 82.24819236331516}}
+185 : {'person': {'count': 14, 'confidence': 74.99459172998156}}
+186 : {'train': {'count': 1, 'confidence': 53.40138077735901}, 'person': {'count': 17, 'confidence': 74.57827540004955}}
+187 : {'person': {'count': 16, 'confidence': 75.13072304427624}}
+188 : {'person': {'count': 13, 'confidence': 73.9178675871629}}
+189 : {'person': {'count': 14, 'confidence': 74.38650301524571}}
+190 : {'person': {'count': 12, 'confidence': 74.60029522577922}}
+191 : {'person': {'count': 16, 'confidence': 73.92111271619797}}
+192 : {'person': {'count': 17, 'confidence': 76.009802607929}}
+193 : {'person': {'count': 15, 'confidence': 74.0008310476939}}
+194 : {'person': {'count': 15, 'confidence': 74.40719326337178}}
+195 : {'train': {'count': 1, 'confidence': 62.923479080200195}, 'person': {'count': 15, 'confidence': 78.1295104821523}}
+196 : {'person': {'count': 17, 'confidence': 73.77580228973838}}
+197 : {'train': {'count': 1, 'confidence': 63.824641704559326}, 'person': {'count': 14, 'confidence': 75.54027395589011}}
+198 : {'train': {'count': 1, 'confidence': 52.04656720161438}, 'person': {'count': 12, 'confidence': 76.82622075080872}}
+199 : {'train': {'count': 1, 'confidence': 51.11348032951355}, 'person': {'count': 17, 'confidence': 70.30650798012229}}
+200 : {'train': {'count': 1, 'confidence': 60.489845275878906}, 'person': {'count': 19, 'confidence': 71.48476776323821}}
+201 : {'person': {'count': 15, 'confidence': 74.35833136240642}}
+202 : {'person': {'count': 13, 'confidence': 75.62262782683739}}
+203 : {'person': {'count': 15, 'confidence': 76.62261287371318}}
+204 : {'person': {'count': 17, 'confidence': 76.07918101198533}}
+205 : {'person': {'count': 17, 'confidence': 77.39634654101204}}
+206 : {'person': {'count': 17, 'confidence': 74.36213949147393}}
+207 : {'person': {'count': 15, 'confidence': 78.68702093760173}}
+208 : {'person': {'count': 14, 'confidence': 82.89932991777148}}
+209 : {'person': {'count': 15, 'confidence': 83.09891899426778}}
+210 : {'person': {'count': 14, 'confidence': 81.65261319705418}}
+211 : {'person': {'count': 16, 'confidence': 75.07824450731277}}
+212 : {'person': {'count': 14, 'confidence': 77.6186146906444}}
+213 : {'person': {'count': 13, 'confidence': 81.6696781378526}}
+214 : {'person': {'count': 13, 'confidence': 84.0000556065486}}
+215 : {'person': {'count': 15, 'confidence': 75.86746136347453}}
+216 : {'person': {'count': 14, 'confidence': 77.05052026680538}}
+217 : {'person': {'count': 14, 'confidence': 79.76853123732975}}
+218 : {'person': {'count': 14, 'confidence': 79.40013876983097}}
+219 : {'person': {'count': 14, 'confidence': 80.76690009662083}}
+220 : {'person': {'count': 10, 'confidence': 85.32583177089691}}
+221 : {'person': {'count': 11, 'confidence': 81.4672508023002}}
+222 : {'person': {'count': 10, 'confidence': 83.21108222007751}}
+223 : {'person': {'count': 11, 'confidence': 84.23242189667441}}
+224 : {'person': {'count': 10, 'confidence': 85.4044497013092}}
+225 : {'person': {'count': 13, 'confidence': 79.09774505175076}}
+226 : {'person': {'count': 11, 'confidence': 83.43398029153997}}
+227 : {'person': {'count': 12, 'confidence': 80.80509851376216}}
+228 : {'person': {'count': 13, 'confidence': 83.77548731290378}}
+229 : {'person': {'count': 13, 'confidence': 84.89709909145648}}
+230 : {'person': {'count': 13, 'confidence': 81.46505676783048}}
+231 : {'person': {'count': 14, 'confidence': 81.40313284737724}}
+232 : {'person': {'count': 11, 'confidence': 86.53465726158835}}
+233 : {'person': {'count': 12, 'confidence': 82.29682793219884}}
+234 : {'person': {'count': 10, 'confidence': 81.76200985908508}}
+235 : {'person': {'count': 11, 'confidence': 84.20397964390841}}
+236 : {'person': {'count': 9, 'confidence': 85.73261962996588}}
+237 : {'person': {'count': 9, 'confidence': 88.44616148206923}}
+238 : {'person': {'count': 9, 'confidence': 87.99934453434415}}
+239 : {'person': {'count': 9, 'confidence': 85.88729699452718}}
+240 : {'person': {'count': 9, 'confidence': 89.4943700896369}}
+241 : {'person': {'count': 11, 'confidence': 80.56286627596074}}
+242 : {'person': {'count': 13, 'confidence': 77.90196996468764}}
+243 : {'person': {'count': 13, 'confidence': 79.83880409827599}}
+244 : {'person': {'count': 12, 'confidence': 79.05349085728328}}
+245 : {'person': {'count': 12, 'confidence': 74.62856272856395}}
+246 : {'person': {'count': 13, 'confidence': 76.41037152363704}}
+247 : {'person': {'count': 13, 'confidence': 76.73708429703346}}
+248 : {'person': {'count': 13, 'confidence': 76.68724564405588}}
+249 : {'person': {'count': 11, 'confidence': 78.15299955281344}}
+250 : {'person': {'count': 13, 'confidence': 75.98498784578763}}
+251 : {'person': {'count': 14, 'confidence': 77.38659722464425}}
+252 : {'person': {'count': 13, 'confidence': 81.55378561753493}}
+253 : {'person': {'count': 13, 'confidence': 80.23572518275334}}
+254 : {'person': {'count': 13, 'confidence': 77.55515483709482}}
+255 : {'person': {'count': 12, 'confidence': 75.01344233751297}}
+256 : {'person': {'count': 8, 'confidence': 83.26745852828026}}
+257 : {'person': {'count': 9, 'confidence': 78.53370176421271}}
+258 : {'person': {'count': 8, 'confidence': 82.87992179393768}}
+259 : {'person': {'count': 9, 'confidence': 79.03732789887323}}
+260 : {'person': {'count': 10, 'confidence': 80.3567236661911}}
+261 : {'person': {'count': 12, 'confidence': 77.19385425249736}}
+262 : {'person': {'count': 10, 'confidence': 82.11095094680786}}
+263 : {'person': {'count': 11, 'confidence': 81.72746950929815}}
+264 : {'person': {'count': 11, 'confidence': 80.52451556379145}}
+265 : {'person': {'count': 9, 'confidence': 81.48500588205125}}
+266 : {'person': {'count': 10, 'confidence': 74.56752181053162}}
+267 : {'person': {'count': 13, 'confidence': 69.99452251654405}}
+268 : {'person': {'count': 9, 'confidence': 79.73994745148553}}
+269 : {'person': {'count': 13, 'confidence': 77.68751428677486}}
+270 : {'bench': {'count': 1, 'confidence': 51.17868185043335}, 'person': {'count': 9, 'confidence': 79.93580235375299}}
+271 : {'bench': {'count': 1, 'confidence': 75.04718899726868}, 'person': {'count': 9, 'confidence': 80.53385747803583}}
+272 : {'bench': {'count': 1, 'confidence': 58.18752646446228}, 'person': {'count': 11, 'confidence': 73.76245151866566}}
+273 : {'bench': {'count': 1, 'confidence': 71.32922410964966}, 'person': {'count': 11, 'confidence': 77.44680643081665}}
+274 : {'bench': {'count': 1, 'confidence': 65.31198024749756}, 'person': {'count': 11, 'confidence': 72.44382771578702}}
+275 : {'person': {'count': 13, 'confidence': 74.55569276442894}}
+276 : {'person': {'count': 13, 'confidence': 72.5450011400076}}
+277 : {'bench': {'count': 1, 'confidence': 56.62659406661987}, 'person': {'count': 13, 'confidence': 76.90798502701979}}
+278 : {'person': {'count': 11, 'confidence': 77.82716696912593}}
+279 : {'person': {'count': 12, 'confidence': 77.54344393809636}}
+280 : {'person': {'count': 10, 'confidence': 78.18379521369934}}
+281 : {'person': {'count': 12, 'confidence': 75.56970765193303}}
+282 : {'person': {'count': 10, 'confidence': 78.07224750518799}}
+283 : {'person': {'count': 12, 'confidence': 76.22817258040111}}
+284 : {'person': {'count': 13, 'confidence': 76.56617898207445}}
+285 : {'person': {'count': 11, 'confidence': 78.49918874827299}}
+286 : {'person': {'count': 12, 'confidence': 77.68245836098988}}
+287 : {'person': {'count': 13, 'confidence': 76.65275014363803}}
+288 : {'car': {'count': 1, 'confidence': 51.41887664794922}, 'person': {'count': 14, 'confidence': 73.2728225844247}}
+289 : {'person': {'count': 14, 'confidence': 76.5457102230617}}
+290 : {'person': {'count': 17, 'confidence': 72.97348204781028}}
+291 : {'person': {'count': 17, 'confidence': 71.85689175830169}}
+292 : {'person': {'count': 15, 'confidence': 72.13915467262268}, 'car': {'count': 1, 'confidence': 52.657532691955566}}
+293 : {'person': {'count': 14, 'confidence': 72.81615776675088}, 'car': {'count': 1, 'confidence': 59.81799364089966}}
+294 : {'person': {'count': 14, 'confidence': 75.17252479280744}, 'car': {'count': 1, 'confidence': 59.45342779159546}}
+295 : {'person': {'count': 14, 'confidence': 73.47694379942757}}
+296 : {'person': {'count': 10, 'confidence': 81.50611639022827}}
+297 : {'person': {'count': 15, 'confidence': 71.8575370311737}}
+298 : {'person': {'count': 14, 'confidence': 71.85683378151485}}
+299 : {'person': {'count': 15, 'confidence': 67.58850495020549}}
+300 : {'person': {'count': 14, 'confidence': 68.03356664521354}}
+301 : {'person': {'count': 12, 'confidence': 72.67261097828548}}
+302 : {'person': {'count': 16, 'confidence': 72.71454595029354}}
+303 : {'person': {'count': 17, 'confidence': 69.73409512463738}}
+304 : {'person': {'count': 17, 'confidence': 67.12379911366631}}
+305 : {'person': {'count': 13, 'confidence': 72.17699977067801}}
+306 : {'person': {'count': 11, 'confidence': 76.16057829423384}}
+307 : {'person': {'count': 11, 'confidence': 73.35541085763411}}
+308 : {'person': {'count': 14, 'confidence': 71.36068855013166}}
+309 : {'person': {'count': 16, 'confidence': 70.75036615133286}}
+310 : {'person': {'count': 15, 'confidence': 70.04905462265015}}
+311 : {'person': {'count': 16, 'confidence': 69.00342255830765}}
+312 : {'person': {'count': 14, 'confidence': 73.05024266242981}}
+313 : {'person': {'count': 15, 'confidence': 73.90387574831645}}
+314 : {'person': {'count': 16, 'confidence': 74.45481903851032}}
+315 : {'person': {'count': 12, 'confidence': 77.4774303038915}}
+316 : {'person': {'count': 14, 'confidence': 71.57554796763829}}
+317 : {'person': {'count': 16, 'confidence': 74.16730187833309}}
+318 : {'person': {'count': 13, 'confidence': 77.31572343752934}}
+319 : {'person': {'count': 15, 'confidence': 74.72171227137248}}
+320 : {'person': {'count': 16, 'confidence': 78.01773138344288}}
+321 : {'person': {'count': 16, 'confidence': 74.71804730594158}}
+322 : {'person': {'count': 16, 'confidence': 75.84345899522305}}
+323 : {'person': {'count': 16, 'confidence': 72.03213907778263}}
+324 : {'person': {'count': 14, 'confidence': 74.28966930934361}}
+325 : {'person': {'count': 19, 'confidence': 72.63542100002891}}
+326 : {'person': {'count': 17, 'confidence': 73.3599438386805}}
+327 : {'person': {'count': 13, 'confidence': 78.55678292421194}}
+328 : {'person': {'count': 16, 'confidence': 78.01136560738087}}
+329 : {'person': {'count': 16, 'confidence': 76.16724856197834}}
+330 : {'person': {'count': 17, 'confidence': 71.6934084892273}}
+331 : {'person': {'count': 16, 'confidence': 75.98658353090286}}
+332 : {'person': {'count': 16, 'confidence': 72.3493043333292}}
+333 : {'person': {'count': 14, 'confidence': 70.8216803414481}}
+334 : {'person': {'count': 16, 'confidence': 71.90470173954964}}
+335 : {'person': {'count': 15, 'confidence': 71.82858347892761}}
+336 : {'person': {'count': 16, 'confidence': 72.73619621992111}}
+337 : {'person': {'count': 18, 'confidence': 72.3071191045973}}
+338 : {'person': {'count': 16, 'confidence': 74.4306642562151}}
+339 : {'person': {'count': 17, 'confidence': 74.53057029668022}}
+340 : {'person': {'count': 16, 'confidence': 77.54448279738426}}
+341 : {'person': {'count': 18, 'confidence': 71.5951873196496}}
+342 : {'person': {'count': 16, 'confidence': 73.10095615684986}}
+343 : {'person': {'count': 17, 'confidence': 66.04586629306569}}
+344 : {'person': {'count': 13, 'confidence': 79.82013271405147}}
+345 : {'person': {'count': 15, 'confidence': 75.88984568913777}}
+346 : {'person': {'count': 13, 'confidence': 77.28861341109642}}
+347 : {'person': {'count': 14, 'confidence': 74.23785371439797}}
+348 : {'person': {'count': 13, 'confidence': 72.44164668596707}}
+349 : {'person': {'count': 13, 'confidence': 76.57988438239464}}
+350 : {'person': {'count': 14, 'confidence': 76.23543909617833}}
+351 : {'person': {'count': 13, 'confidence': 80.45543661484352}}
+352 : {'person': {'count': 14, 'confidence': 80.94017165047782}}
+353 : {'person': {'count': 13, 'confidence': 78.75031783030583}}
+354 : {'person': {'count': 13, 'confidence': 78.95779930628262}}
+355 : {'person': {'count': 14, 'confidence': 77.13403403759003}}
+356 : {'person': {'count': 12, 'confidence': 80.62936464945476}}
+357 : {'person': {'count': 13, 'confidence': 76.6493728527656}}
+358 : {'person': {'count': 12, 'confidence': 77.08525409301122}}
+359 : {'person': {'count': 14, 'confidence': 76.67201714856284}}
+360 : {'person': {'count': 12, 'confidence': 79.93992666403453}}
+361 : {'person': {'count': 13, 'confidence': 76.22739443412193}}
+362 : {'person': {'count': 18, 'confidence': 71.02205753326416}}
+363 : {'person': {'count': 20, 'confidence': 71.96288913488388}}
+364 : {'clock': {'count': 1, 'confidence': 50.33028721809387}, 'person': {'count': 19, 'confidence': 75.4370883891457}}
+365 : {'person': {'count': 16, 'confidence': 78.37049923837185}}
+366 : {'person': {'count': 15, 'confidence': 77.08408276240031}}
+367 : {'person': {'count': 16, 'confidence': 75.93430504202843}}
+368 : {'person': {'count': 19, 'confidence': 73.11405414029171}}
+369 : {'person': {'count': 19, 'confidence': 72.91021064708107}}
+370 : {'clock': {'count': 1, 'confidence': 55.08188009262085}, 'person': {'count': 14, 'confidence': 76.741081901959}}
+371 : {'clock': {'count': 1, 'confidence': 78.8356065750122}, 'person': {'count': 14, 'confidence': 71.34172660963876}}
+372 : {'clock': {'count': 1, 'confidence': 59.64385271072388}, 'person': {'count': 13, 'confidence': 76.53011771348807}}
+373 : {'person': {'count': 16, 'confidence': 74.18971247971058}}
+374 : {'clock': {'count': 1, 'confidence': 75.94934701919556}, 'person': {'count': 15, 'confidence': 74.57828481992085}}
+375 : {'clock': {'count': 1, 'confidence': 76.46632790565491}, 'person': {'count': 15, 'confidence': 73.32329432169597}}
+376 : {'clock': {'count': 1, 'confidence': 76.7243504524231}, 'person': {'count': 15, 'confidence': 75.91963728268941}}
+377 : {'clock': {'count': 1, 'confidence': 63.632380962371826}, 'person': {'count': 14, 'confidence': 73.89628504003797}}
+378 : {'clock': {'count': 1, 'confidence': 55.146658420562744}, 'person': {'count': 12, 'confidence': 68.2399849096934}}
+379 : {'clock': {'count': 1, 'confidence': 56.90777897834778}, 'person': {'count': 9, 'confidence': 71.89915047751532}}
+380 : {'clock': {'count': 1, 'confidence': 56.75792098045349}, 'person': {'count': 10, 'confidence': 73.80772411823273}}
+381 : {'clock': {'count': 1, 'confidence': 59.37391519546509}, 'person': {'count': 10, 'confidence': 73.54467570781708}}
+382 : {'person': {'count': 10, 'confidence': 68.58147084712982}}
+383 : {'person': {'count': 15, 'confidence': 72.9933766523997}}
+384 : {'person': {'count': 14, 'confidence': 76.65874106543404}}
+385 : {'person': {'count': 17, 'confidence': 72.11723783436943}}
+386 : {'person': {'count': 16, 'confidence': 74.00369755923748}}
+387 : {'clock': {'count': 1, 'confidence': 51.74267888069153}, 'person': {'count': 16, 'confidence': 69.87776421010494}}
+388 : {'clock': {'count': 1, 'confidence': 51.20108127593994}, 'person': {'count': 15, 'confidence': 70.28009613355}}
+389 : {'person': {'count': 13, 'confidence': 71.40747400430533}}
+390 : {'person': {'count': 13, 'confidence': 71.29880740092351}}
+391 : {'person': {'count': 11, 'confidence': 74.76415796713395}}
+392 : {'clock': {'count': 1, 'confidence': 50.495630502700806}, 'person': {'count': 8, 'confidence': 82.14468955993652}}
+393 : {'clock': {'count': 1, 'confidence': 68.17020177841187}, 'person': {'count': 16, 'confidence': 69.66007985174656}}
+394 : {'clock': {'count': 1, 'confidence': 75.33954381942749}, 'person': {'count': 9, 'confidence': 80.77009386486478}}
+395 : {'clock': {'count': 1, 'confidence': 74.88982677459717}, 'person': {'count': 10, 'confidence': 76.58097743988037}}
+396 : {'clock': {'count': 1, 'confidence': 55.284184217453}, 'person': {'count': 9, 'confidence': 77.79664529694452}}
+397 : {'person': {'count': 12, 'confidence': 80.70222338040669}}
+398 : {'person': {'count': 13, 'confidence': 78.99103072973398}}
+399 : {'person': {'count': 15, 'confidence': 74.27591721216838}}
+400 : {'person': {'count': 14, 'confidence': 77.35088765621185}}
+401 : {'person': {'count': 14, 'confidence': 76.14982170718056}}
+402 : {'person': {'count': 15, 'confidence': 75.09907960891724}}
+403 : {'person': {'count': 12, 'confidence': 83.10835560162862}}
+404 : {'person': {'count': 13, 'confidence': 76.71710940507742}}
+405 : {'clock': {'count': 1, 'confidence': 57.521140575408936}, 'person': {'count': 15, 'confidence': 76.23615980148315}}
+406 : {'clock': {'count': 1, 'confidence': 66.60040020942688}, 'person': {'count': 16, 'confidence': 76.11749395728111}}
+407 : {'clock': {'count': 1, 'confidence': 57.66204595565796}, 'person': {'count': 15, 'confidence': 71.9831148783366}}
+408 : {'clock': {'count': 1, 'confidence': 69.33339238166809}, 'person': {'count': 14, 'confidence': 74.76699820586613}}
+409 : {'clock': {'count': 1, 'confidence': 75.98057389259338}, 'person': {'count': 13, 'confidence': 77.99061261690579}}
+410 : {'clock': {'count': 1, 'confidence': 78.77485156059265}, 'car': {'count': 1, 'confidence': 60.55006384849548}, 'person': {'count': 14, 'confidence': 77.05022735255105}}
+411 : {'clock': {'count': 1, 'confidence': 77.35282182693481}, 'car': {'count': 1, 'confidence': 55.617618560791016}, 'person': {'count': 11, 'confidence': 80.72217052633113}}
+412 : {'clock': {'count': 1, 'confidence': 54.55312132835388}, 'person': {'count': 15, 'confidence': 75.1360825697581}}
+413 : {'person': {'count': 16, 'confidence': 76.83782801032066}}
+414 : {'clock': {'count': 1, 'confidence': 55.02302646636963}, 'person': {'count': 13, 'confidence': 78.97806763648987}}
+415 : {'person': {'count': 14, 'confidence': 78.06451661246163}}
+416 : {'person': {'count': 14, 'confidence': 79.81625412191663}}
+417 : {'clock': {'count': 1, 'confidence': 55.987441539764404}, 'person': {'count': 13, 'confidence': 81.94488562070407}}
+418 : {'clock': {'count': 1, 'confidence': 63.56958746910095}, 'person': {'count': 16, 'confidence': 74.8377937823534}}
+419 : {'clock': {'count': 1, 'confidence': 79.48066592216492}, 'person': {'count': 12, 'confidence': 76.8949622909228}}
+420 : {'clock': {'count': 1, 'confidence': 59.378087520599365}, 'person': {'count': 11, 'confidence': 80.59834241867065}}
+421 : {'clock': {'count': 1, 'confidence': 67.23135113716125}, 'person': {'count': 14, 'confidence': 74.86233540943691}}
+422 : {'person': {'count': 14, 'confidence': 80.01895844936371}}
+423 : {'clock': {'count': 1, 'confidence': 64.44440484046936}, 'person': {'count': 12, 'confidence': 81.1348835627238}}
+424 : {'clock': {'count': 2, 'confidence': 59.16318595409393}, 'person': {'count': 13, 'confidence': 78.08513412108788}}
+425 : {'clock': {'count': 1, 'confidence': 65.58766961097717}, 'person': {'count': 11, 'confidence': 80.76545921238986}}
+426 : {'clock': {'count': 2, 'confidence': 52.84597873687744}, 'person': {'count': 9, 'confidence': 81.77235126495361}}
+427 : {'clock': {'count': 1, 'confidence': 54.71917390823364}, 'person': {'count': 12, 'confidence': 77.57170846064885}}
+428 : {'clock': {'count': 1, 'confidence': 72.24627733230591}, 'person': {'count': 12, 'confidence': 79.72867339849472}}
+429 : {'clock': {'count': 1, 'confidence': 66.76707863807678}, 'person': {'count': 11, 'confidence': 80.62995780598034}}
+430 : {'clock': {'count': 1, 'confidence': 57.69949555397034}, 'person': {'count': 10, 'confidence': 80.68140625953674}}
+431 : {'clock': {'count': 1, 'confidence': 62.93662786483765}, 'person': {'count': 11, 'confidence': 80.78406994993037}}
+432 : {'clock': {'count': 1, 'confidence': 55.943089723587036}, 'person': {'count': 12, 'confidence': 80.07892866929372}}
+433 : {'clock': {'count': 1, 'confidence': 71.67156338691711}, 'person': {'count': 11, 'confidence': 81.19066899473017}}
+434 : {'clock': {'count': 1, 'confidence': 66.69661402702332}, 'person': {'count': 8, 'confidence': 85.4341059923172}}
+435 : {'person': {'count': 7, 'confidence': 89.01984861918858}}
+436 : {'clock': {'count': 1, 'confidence': 50.67012906074524}, 'person': {'count': 9, 'confidence': 80.99965519375272}}
+437 : {'person': {'count': 10, 'confidence': 75.8827817440033}}
+438 : {'person': {'count': 11, 'confidence': 69.82075409455733}}
+439 : {'clock': {'count': 1, 'confidence': 57.088810205459595}, 'person': {'count': 11, 'confidence': 74.46435798298229}}
+440 : {'clock': {'count': 1, 'confidence': 68.47769618034363}, 'person': {'count': 9, 'confidence': 80.98958200878567}}
+441 : {'clock': {'count': 1, 'confidence': 71.9767689704895}, 'person': {'count': 7, 'confidence': 78.5675185067313}}
+442 : {'clock': {'count': 1, 'confidence': 51.258593797683716}, 'person': {'count': 7, 'confidence': 76.00575770650592}}
+443 : {'clock': {'count': 1, 'confidence': 59.56223011016846}, 'person': {'count': 9, 'confidence': 77.4740046925015}}
+444 : {'clock': {'count': 1, 'confidence': 66.3140058517456}, 'person': {'count': 7, 'confidence': 77.56266083036151}}
+445 : {'clock': {'count': 2, 'confidence': 58.54200720787048}, 'person': {'count': 10, 'confidence': 71.83769583702087}}
+446 : {'clock': {'count': 1, 'confidence': 71.51312232017517}, 'person': {'count': 7, 'confidence': 77.87459407533917}}
+447 : {'clock': {'count': 1, 'confidence': 75.22204518318176}, 'person': {'count': 11, 'confidence': 71.06318365443836}}
+448 : {'clock': {'count': 1, 'confidence': 74.54617023468018}, 'person': {'count': 11, 'confidence': 70.80611261454496}}
+449 : {'clock': {'count': 1, 'confidence': 70.79710364341736}, 'person': {'count': 13, 'confidence': 69.05717345384451}}
+450 : {'clock': {'count': 1, 'confidence': 63.20157051086426}, 'person': {'count': 15, 'confidence': 68.36234927177429}}
+451 : {'clock': {'count': 1, 'confidence': 60.15181541442871}, 'person': {'count': 10, 'confidence': 67.75089085102081}}
+452 : {'person': {'count': 10, 'confidence': 69.0172415971756}}
+453 : {'clock': {'count': 1, 'confidence': 53.76589298248291}, 'person': {'count': 8, 'confidence': 67.72936210036278}}
+454 : {'clock': {'count': 1, 'confidence': 70.49699425697327}, 'truck': {'count': 1, 'confidence': 54.99591827392578}, 'person': {'count': 7, 'confidence': 68.42941130910602}}
+455 : {'clock': {'count': 1, 'confidence': 70.01506686210632}, 'person': {'count': 5, 'confidence': 71.96713089942932}}
+456 : {'clock': {'count': 1, 'confidence': 62.25569248199463}, 'person': {'count': 6, 'confidence': 64.62933321793874}}
+457 : {'clock': {'count': 1, 'confidence': 58.64723324775696}, 'person': {'count': 3, 'confidence': 63.23322455088297}}
+458 : {'clock': {'count': 1, 'confidence': 56.3574492931366}, 'person': {'count': 6, 'confidence': 67.04016923904419}}
+459 : {'clock': {'count': 1, 'confidence': 54.63319420814514}, 'person': {'count': 7, 'confidence': 66.28173845154899}}
+460 : {'clock': {'count': 1, 'confidence': 56.53938055038452}, 'person': {'count': 8, 'confidence': 66.23538881540298}}
+461 : {'clock': {'count': 1, 'confidence': 60.308837890625}, 'person': {'count': 7, 'confidence': 63.887087787900654}}
+462 : {'person': {'count': 6, 'confidence': 60.34335494041443}}
+463 : {'clock': {'count': 1, 'confidence': 55.53969740867615}, 'person': {'count': 1, 'confidence': 50.5506157875061}}
+464 : {'clock': {'count': 1, 'confidence': 64.43679332733154}, 'person': {'count': 1, 'confidence': 71.47778272628784}}
+465 : {'clock': {'count': 1, 'confidence': 67.25719571113586}, 'person': {'count': 1, 'confidence': 66.156405210495}}
+466 : {'clock': {'count': 1, 'confidence': 56.51365518569946}}
+467 : {'clock': {'count': 1, 'confidence': 66.36977791786194}, 'person': {'count': 2, 'confidence': 55.21895885467529}}
+468 : {'clock': {'count': 1, 'confidence': 72.95314073562622}, 'truck': {'count': 1, 'confidence': 50.38634538650513}, 'person': {'count': 2, 'confidence': 58.498308062553406}}
+469 : {'clock': {'count': 1, 'confidence': 91.51015877723694}, 'person': {'count': 6, 'confidence': 62.75450587272644}}
+470 : {'clock': {'count': 1, 'confidence': 83.02198648452759}, 'person': {'count': 3, 'confidence': 72.4882443745931}}
+471 : {'clock': {'count': 1, 'confidence': 86.54866814613342}, 'person': {'count': 3, 'confidence': 61.92927956581116}}
+472 : {'clock': {'count': 1, 'confidence': 86.34795546531677}, 'person': {'count': 4, 'confidence': 60.03730297088623}}
+473 : {'clock': {'count': 1, 'confidence': 92.61860847473145}, 'person': {'count': 4, 'confidence': 64.58926349878311}}
+474 : {'clock': {'count': 1, 'confidence': 94.74072456359863}}
+475 : {'clock': {'count': 1, 'confidence': 93.2044267654419}}
+476 : {'clock': {'count': 1, 'confidence': 91.4655864238739}, 'person': {'count': 2, 'confidence': 61.33963167667389}}
+477 : {'clock': {'count': 1, 'confidence': 95.82861661911011}}
+478 : {'clock': {'count': 1, 'confidence': 95.26907205581665}, 'person': {'count': 1, 'confidence': 55.694979429244995}}
+479 : {'clock': {'count': 1, 'confidence': 94.75106596946716}, 'person': {'count': 2, 'confidence': 59.9254310131073}}
+480 : {'clock': {'count': 1, 'confidence': 93.98132562637329}, 'person': {'count': 1, 'confidence': 54.94218468666077}}
+481 : {'clock': {'count': 1, 'confidence': 94.09971237182617}, 'person': {'count': 1, 'confidence': 74.45347905158997}}
+482 : {'clock': {'count': 1, 'confidence': 92.21320152282715}, 'person': {'count': 1, 'confidence': 69.91281509399414}}
+483 : {'clock': {'count': 1, 'confidence': 92.40251779556274}, 'person': {'count': 1, 'confidence': 72.68548011779785}}
+484 : {'clock': {'count': 1, 'confidence': 93.59802007675171}, 'person': {'count': 2, 'confidence': 62.40970194339752}}
+485 : {'clock': {'count': 1, 'confidence': 95.61112523078918}, 'person': {'count': 2, 'confidence': 52.8053879737854}}
+486 : {'clock': {'count': 1, 'confidence': 95.24914622306824}, 'person': {'count': 2, 'confidence': 61.67028248310089}}
+487 : {'clock': {'count': 1, 'confidence': 92.77980327606201}, 'person': {'count': 1, 'confidence': 70.41053175926208}}
+488 : {'clock': {'count': 1, 'confidence': 96.8793272972107}, 'person': {'count': 2, 'confidence': 66.76047444343567}}
+489 : {'clock': {'count': 1, 'confidence': 94.80693936347961}, 'person': {'count': 1, 'confidence': 67.50547289848328}}
+490 : {'clock': {'count': 1, 'confidence': 97.03728556632996}, 'person': {'count': 1, 'confidence': 65.17281532287598}}
+491 : {'clock': {'count': 1, 'confidence': 98.31182956695557}, 'person': {'count': 1, 'confidence': 53.6902129650116}}
+492 : {'clock': {'count': 1, 'confidence': 98.696368932724}, 'person': {'count': 1, 'confidence': 72.82228469848633}}
+493 : {'clock': {'count': 1, 'confidence': 99.03025031089783}, 'person': {'count': 3, 'confidence': 67.30032960573833}}
+494 : {'clock': {'count': 1, 'confidence': 99.21743273735046}, 'person': {'count': 3, 'confidence': 70.1830546061198}}
+495 : {'clock': {'count': 1, 'confidence': 99.0464985370636}, 'person': {'count': 2, 'confidence': 57.69321620464325}}
+496 : {'clock': {'count': 1, 'confidence': 98.97371530532837}}
+497 : {'clock': {'count': 1, 'confidence': 98.54201078414917}, 'person': {'count': 4, 'confidence': 56.55004680156708}}
+498 : {'clock': {'count': 1, 'confidence': 98.02514910697937}, 'person': {'count': 1, 'confidence': 55.08854389190674}}
+499 : {'clock': {'count': 1, 'confidence': 96.89188003540039}}
+500 : {'clock': {'count': 1, 'confidence': 97.06725478172302}}
+501 : {'clock': {'count': 1, 'confidence': 96.07223868370056}}
+502 : {'clock': {'count': 1, 'confidence': 95.6358551979065}}
+503 : {'clock': {'count': 1, 'confidence': 96.12760543823242}}
+504 : {'clock': {'count': 1, 'confidence': 97.60410189628601}}
+505 : {'clock': {'count': 1, 'confidence': 96.22474908828735}}
+506 : {'clock': {'count': 1, 'confidence': 97.26001024246216}}
+507 : {'clock': {'count': 1, 'confidence': 96.62981033325195}}
+508 : {'clock': {'count': 1, 'confidence': 96.578848361969}}
+509 : {'clock': {'count': 1, 'confidence': 97.5028395652771}}
+510 : {'clock': {'count': 1, 'confidence': 97.73741364479065}}
+511 : {'clock': {'count': 1, 'confidence': 96.42087817192078}}
+512 : {'clock': {'count': 1, 'confidence': 97.43362665176392}}
+513 : {'clock': {'count': 1, 'confidence': 96.74745798110962}, 'person': {'count': 2, 'confidence': 60.15602946281433}}
+514 : {'clock': {'count': 1, 'confidence': 96.41191363334656}, 'boat': {'count': 1, 'confidence': 62.50287890434265}, 'person': {'count': 1, 'confidence': 55.20281791687012}}
+515 : {'clock': {'count': 1, 'confidence': 94.70384120941162}}
+516 : {'clock': {'count': 1, 'confidence': 94.41640973091125}}
+517 : {'clock': {'count': 1, 'confidence': 89.48389291763306}, 'person': {'count': 1, 'confidence': 65.32907485961914}}
+518 : {'clock': {'count': 1, 'confidence': 89.995276927948}}
+519 : {'clock': {'count': 1, 'confidence': 92.97593832015991}}
+520 : {'clock': {'count': 1, 'confidence': 95.71102857589722}}
+521 : {'clock': {'count': 1, 'confidence': 96.53223752975464}}
+522 : {'clock': {'count': 1, 'confidence': 96.603924036026}}
+523 : {'clock': {'count': 1, 'confidence': 96.13632559776306}}
+524 : {'clock': {'count': 1, 'confidence': 94.08429265022278}}
+525 : {'clock': {'count': 1, 'confidence': 95.50928473472595}, 'person': {'count': 1, 'confidence': 64.68497514724731}}
+526 : {'clock': {'count': 1, 'confidence': 97.07276225090027}, 'person': {'count': 1, 'confidence': 65.38674831390381}}
+527 : {'clock': {'count': 1, 'confidence': 96.0172176361084}, 'person': {'count': 2, 'confidence': 76.59387588500977}}
+528 : {'clock': {'count': 1, 'confidence': 95.45986652374268}, 'person': {'count': 1, 'confidence': 93.15651059150696}}
+529 : {'clock': {'count': 1, 'confidence': 96.11867666244507}, 'person': {'count': 1, 'confidence': 87.87170648574829}}
+530 : {'clock': {'count': 1, 'confidence': 96.64565920829773}, 'person': {'count': 1, 'confidence': 97.216135263443}}
+531 : {'clock': {'count': 1, 'confidence': 96.62758708000183}}
+532 : {'clock': {'count': 1, 'confidence': 93.7848150730133}, 'person': {'count': 1, 'confidence': 94.06312704086304}}
+533 : {'clock': {'count': 1, 'confidence': 95.72747349739075}, 'person': {'count': 1, 'confidence': 55.520617961883545}}
+534 : {'clock': {'count': 1, 'confidence': 97.96095490455627}}
+535 : {'clock': {'count': 1, 'confidence': 96.15630507469177}}
+536 : {'clock': {'count': 1, 'confidence': 97.33750820159912}}
+537 : {'clock': {'count': 1, 'confidence': 98.42178225517273}}
+538 : {'clock': {'count': 1, 'confidence': 97.79595136642456}}
+539 : {'clock': {'count': 1, 'confidence': 98.25215935707092}}
+540 : {'clock': {'count': 1, 'confidence': 98.5425055027008}}
+541 : {'clock': {'count': 1, 'confidence': 94.38628554344177}}
+542 : {'clock': {'count': 1, 'confidence': 96.05451822280884}}
+543 : {'clock': {'count': 1, 'confidence': 97.56744503974915}, 'person': {'count': 1, 'confidence': 58.92149209976196}}
+544 : {'clock': {'count': 1, 'confidence': 92.03779697418213}}
+545 : {'clock': {'count': 1, 'confidence': 92.43777394294739}, 'person': {'count': 1, 'confidence': 61.394673585891724}}
+546 : {'clock': {'count': 1, 'confidence': 86.0858142375946}}
+547 : {'clock': {'count': 1, 'confidence': 79.65370416641235}}
+548 : {'clock': {'count': 1, 'confidence': 69.63089108467102}}
+549 : {'clock': {'count': 1, 'confidence': 58.607667684555054}}
+550 : {'clock': {'count': 1, 'confidence': 62.710100412368774}, 'car': {'count': 1, 'confidence': 53.24936509132385}, 'person': {'count': 1, 'confidence': 59.183722734451294}}
+551 : {'train': {'count': 1, 'confidence': 54.6703040599823}, 'clock': {'count': 1, 'confidence': 61.63116097450256}, 'car': {'count': 1, 'confidence': 54.82286810874939}}
+552 : {'clock': {'count': 1, 'confidence': 60.938310623168945}}
+553 : {'clock': {'count': 1, 'confidence': 50.487059354782104}, 'car': {'count': 1, 'confidence': 61.84763312339783}}
+554 : {'clock': {'count': 1, 'confidence': 50.73632001876831}, 'car': {'count': 1, 'confidence': 57.15821385383606}, 'person': {'count': 2, 'confidence': 61.74236536026001}}
+555 : {}
+556 : {}
+557 : {'car': {'count': 2, 'confidence': 53.28654646873474}}
+558 : {}
+559 : {'car': {'count': 2, 'confidence': 59.31003391742706}, 'person': {'count': 1, 'confidence': 78.1931221485138}}
+560 : {}
+561 : {'person': {'count': 2, 'confidence': 65.62385261058807}}
+562 : {}
+563 : {'person': {'count': 1, 'confidence': 93.2631254196167}}
+564 : {'car': {'count': 1, 'confidence': 51.22755169868469}, 'person': {'count': 3, 'confidence': 66.07736945152283}}
+565 : {'person': {'count': 1, 'confidence': 73.76729249954224}}
+566 : {'person': {'count': 1, 'confidence': 70.04914879798889}}
+567 : {'person': {'count': 1, 'confidence': 70.879065990448}}
+568 : {'car': {'count': 1, 'confidence': 54.389023780822754}, 'person': {'count': 1, 'confidence': 86.65587306022644}}
+569 : {'person': {'count': 1, 'confidence': 79.83826398849487}}
+570 : {'person': {'count': 1, 'confidence': 89.59819078445435}}
+571 : {'person': {'count': 3, 'confidence': 66.6223128636678}}
+572 : {'person': {'count': 2, 'confidence': 74.42023456096649}}
+573 : {'person': {'count': 1, 'confidence': 94.3430244922638}}
+574 : {'person': {'count': 2, 'confidence': 88.98942768573761}}
+575 : {'person': {'count': 2, 'confidence': 75.23141801357269}}
+576 : {'person': {'count': 2, 'confidence': 83.68394672870636}}
+577 : {'person': {'count': 1, 'confidence': 89.33446407318115}}
+578 : {'person': {'count': 2, 'confidence': 73.70037138462067}}
+579 : {'person': {'count': 3, 'confidence': 75.75477560361226}}
+580 : {'person': {'count': 1, 'confidence': 55.62310814857483}}
+581 : {}
