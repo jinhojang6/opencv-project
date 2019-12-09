@@ -6,7 +6,7 @@ from test_default import test_default
 from test_improved import test_improved
 
 execution_path = os.getcwd()
-filename = 'drone_01.mp4'
+filename = 'PopeVisitToKorea.mp4'
 
 words = filename.split('.')
 filename_short = '.'.join(words[:len(words) - 1])
