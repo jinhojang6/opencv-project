@@ -15,7 +15,7 @@ def per_frame_handler(frame_number, output_array, output_count = None, returned_
 		if stat[item]['count'] > 0:
 			stat[item]['confidence'] = stat[item]['confidence_sum'] / stat[item]['count']
 
-	analysis_stastics.stastics.add_stat(suffix, stat)
+	analysis_stastics.stats.add_stat(suffix, stat)
 
 	report_path = f'./results/analysis_{suffix}.txt'
 	file_mode = 'w'
