@@ -3,7 +3,6 @@ class stastics():
 		self.stastics = {}
 
 	def add_stat(self, suffix, stat):
-		print(stat)
 		if suffix not in self.stastics:
 			self.stastics[suffix] = {}
 
