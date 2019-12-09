@@ -2,7 +2,7 @@ class stastics():
 	def __init__(self):
 		self.stastics = {}
 
-	def add_stat(suffix, stats):
+	def add_stat(self, suffix, stats):
 		if suffix not in self.stastics:
 			self.stastics[suffix] = {}
 
@@ -14,7 +14,7 @@ class stastics():
 			self.stastics[suffix][item]['count_sum'] += item['count']
 			self.stastics[suffix][item]['confidence_sum'] += item['confidence_sum']
 
-	def get_avg(suffix):
+	def get_avg(self):
 		for suffix in self.stastics:
 			for item in self.stastics[suffix]:
 				self.stastics[suffix][item]['count_avg'] = self.stastics[suffix][item]['count_sum'] / self.stastics[suffix][item]['frame_no']
