@@ -9,8 +9,8 @@ def test_improved(path_in, path_out):
 	FLAGS, unparsed = parser.parse_known_args()
 
 	FLAGS.model_path = './references/video-object-detection/yolov3-coco/'
-	FLAGS.weights = './references/video-object-detection/yolov3-coco/yolov3.weights'
-	FLAGS.config = './references/video-object-detection/yolov3-coco/yolov3.cfg'
+	FLAGS.weights = './models/yolov3-spp.weights'
+	FLAGS.config = './models/yolov3-spp.cfg'
 	FLAGS.video_path = path_in
 	FLAGS.video_output_path = path_out + '_improved.avi'
 	FLAGS.labels = './references/video-object-detection/yolov3-coco/coco-labels'
