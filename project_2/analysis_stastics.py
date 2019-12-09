@@ -1,5 +1,5 @@
 class stastics():
-	def __init__():
+	def __init__(self):
 		self.stastics = {}
 
 	def add_stat(suffix, stats):
